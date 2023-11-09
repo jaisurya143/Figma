@@ -32,6 +32,7 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 ## PROGRAM:
+```
 /* Frame 1 */
 
 position: relative;
@@ -443,6 +444,7 @@ font-size: 20px;
 line-height: 24px;
 
 color: #63CCD3;
+```
 
 ## OUTPUT:
 ![Screenshot (6)](https://github.com/jaisurya143/Figma/assets/121999338/ab296be6-090a-4071-a61c-21bb21e5cd8c)
